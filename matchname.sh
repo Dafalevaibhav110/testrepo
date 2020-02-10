@@ -1,3 +1,4 @@
+#this is imp line 
 #!/bin/bash
 filename=/home/c286657/name
 for k in $(cat $filename)
@@ -10,3 +11,4 @@ echo $k
 
 fi 
 done 
+echo "vaibhav"
