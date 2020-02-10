@@ -12,3 +12,5 @@ echo $k
 fi 
 done 
 echo "vaibhav"
+echo " practice"
+echo " feature3"
