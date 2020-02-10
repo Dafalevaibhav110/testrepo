@@ -12,3 +12,4 @@ echo $k
 fi 
 done 
 echo "vaibhav"
+echo " checking rehasing"
